@@ -16,7 +16,7 @@ def func_rand(G, v, he, n, color, C_l):
     vec = []
     for i in range(n + 1):
         if mapp[i] != 0:
-            tot_mas += mapp[i]
+            tot_mas += mapp[i]asdas
         vec.append(i)
     #print(tot_mas)
     for i in range(n + 1):
